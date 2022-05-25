@@ -1,0 +1,15 @@
+C:\Users\MARIO\source\repos\CotacaoDolarAPI\CotacaoDolarAPI\bin\Debug\netcoreapp3.1\CotacaoDolarAPI.exe
+C:\Users\MARIO\source\repos\CotacaoDolarAPI\CotacaoDolarAPI\bin\Debug\netcoreapp3.1\CotacaoDolarAPI.deps.json
+C:\Users\MARIO\source\repos\CotacaoDolarAPI\CotacaoDolarAPI\bin\Debug\netcoreapp3.1\CotacaoDolarAPI.runtimeconfig.json
+C:\Users\MARIO\source\repos\CotacaoDolarAPI\CotacaoDolarAPI\bin\Debug\netcoreapp3.1\CotacaoDolarAPI.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\CotacaoDolarAPI\CotacaoDolarAPI\bin\Debug\netcoreapp3.1\CotacaoDolarAPI.dll
+C:\Users\MARIO\source\repos\CotacaoDolarAPI\CotacaoDolarAPI\bin\Debug\netcoreapp3.1\CotacaoDolarAPI.pdb
+C:\Users\MARIO\source\repos\CotacaoDolarAPI\CotacaoDolarAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\MARIO\source\repos\CotacaoDolarAPI\CotacaoDolarAPI\obj\Debug\netcoreapp3.1\CotacaoDolarAPI.csproj.AssemblyReference.cache
+C:\Users\MARIO\source\repos\CotacaoDolarAPI\CotacaoDolarAPI\obj\Debug\netcoreapp3.1\CotacaoDolarAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIO\source\repos\CotacaoDolarAPI\CotacaoDolarAPI\obj\Debug\netcoreapp3.1\CotacaoDolarAPI.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\CotacaoDolarAPI\CotacaoDolarAPI\obj\Debug\netcoreapp3.1\CotacaoDolarAPI.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\CotacaoDolarAPI\CotacaoDolarAPI\obj\Debug\netcoreapp3.1\CotacaoDolarAPI.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\CotacaoDolarAPI\CotacaoDolarAPI\obj\Debug\netcoreapp3.1\CotacaoDolarAPI.dll
+C:\Users\MARIO\source\repos\CotacaoDolarAPI\CotacaoDolarAPI\obj\Debug\netcoreapp3.1\CotacaoDolarAPI.pdb
+C:\Users\MARIO\source\repos\CotacaoDolarAPI\CotacaoDolarAPI\obj\Debug\netcoreapp3.1\CotacaoDolarAPI.genruntimeconfig.cache

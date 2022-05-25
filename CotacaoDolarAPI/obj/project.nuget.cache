@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LoylQVAz/mf726Fscl+EaaqqWLbUD6iabZ6q/6dWwKwoREP447tjB/sldyASUhwAvo5ijaX/wBp7GT/Mpq6pNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MARIO\\source\\repos\\CotacaoDolarAPI\\CotacaoDolarAPI\\CotacaoDolarAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MARIO\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
